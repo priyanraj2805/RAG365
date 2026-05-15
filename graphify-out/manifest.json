@@ -1,0 +1,742 @@
+{
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/tsconfig.json": {
+    "mtime": 1765777804.0,
+    "ast_hash": "0cf97a81150d3b8904f285780896980d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/eslint.config.mjs": {
+    "mtime": 1765777804.0,
+    "ast_hash": "b43f470c5df5e9ff4c2f5e0bd917a881",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/package.json": {
+    "mtime": 1778828206.8954058,
+    "ast_hash": "18cab00b0c10118efc0a127229a8162d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/next-env.d.ts": {
+    "mtime": 1778828232.3943343,
+    "ast_hash": "ba64ff7d54714a8f64db89b1003207d8",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/postcss.config.mjs": {
+    "mtime": 1765777804.0,
+    "ast_hash": "675899342e765a4d16acd75a53389101",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/middleware.ts": {
+    "mtime": 1769515674.0,
+    "ast_hash": "04ec2c911378e4c7f40ba140ea4ee66b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/next.config.ts": {
+    "mtime": 1765870136.0,
+    "ast_hash": "5d4ee59a94bab8c54dbaeefe3c8a9969",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/contexts/AuthContext.tsx": {
+    "mtime": 1769516508.0,
+    "ast_hash": "5c1e8d9b1d9ea98b0ba155ec7e7dd364",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/TenantManager.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "2ed96e10423e849d886c7af3b72e1cf2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/ErrorBoundary.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "00a40e2b3ea11b6c1dc1f0cc9a9ed517",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/Footer.tsx": {
+    "mtime": 1770623108.0,
+    "ast_hash": "c124121fd4a6ccab6a46b3f65b227d97",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/NavBar.tsx": {
+    "mtime": 1770619422.0,
+    "ast_hash": "247e8ea2b0eb04399a87e361e314d3c5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/ClientWrapper.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "3f01e817d6aa732ebed0899891141f91",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/RouteGuard.tsx": {
+    "mtime": 1769516458.0,
+    "ast_hash": "d1a980d90589169ab03c47ad282b3707",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/components/AuthForm.tsx": {
+    "mtime": 1770621344.0,
+    "ast_hash": "f6f152e82bd2fbe5f73caae34044509f",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/layout.tsx": {
+    "mtime": 1770621280.0,
+    "ast_hash": "a93926d622d2dffbe0ebbfb7bf07d3aa",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/page.tsx": {
+    "mtime": 1770621296.0,
+    "ast_hash": "f9eb0ea629ec6f7e75fb07a5ad504405",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/login/page.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "cc8a5547089117ec0e41c5919bdca424",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/dashboard/layout.tsx": {
+    "mtime": 1770621354.0,
+    "ast_hash": "16064e89f14835184bd62164353face4",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/dashboard/page.tsx": {
+    "mtime": 1765866742.0,
+    "ast_hash": "872a8d6478d74b554092d649977ba6fb",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/dashboard/chat/page.tsx": {
+    "mtime": 1766135164.0,
+    "ast_hash": "0c67f61d28643645c52179510b2b0d2d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/dashboard/organizations/page.tsx": {
+    "mtime": 1765783506.0,
+    "ast_hash": "531805ae1e1ba937339969be024e9b1a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/dashboard/knowledge/page.tsx": {
+    "mtime": 1765783518.0,
+    "ast_hash": "af9bec795b8c78bbd1eb6666c9683d52",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/register/page.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "2546b23f0fefd2f280f92d91570a2e06",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/app/pricing/page.tsx": {
+    "mtime": 1765803550.0,
+    "ast_hash": "24018c7d4154d4ee6e2d0ce0c7e147ce",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/providers/QueryProvider.tsx": {
+    "mtime": 1765778498.0,
+    "ast_hash": "65277dc222f040d0d0b79468a3ee12dd",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/src/lib/api.ts": {
+    "mtime": 1769516484.0,
+    "ast_hash": "7ccf49d84913e0c449a09e49520d1a90",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/__init__.py": {
+    "mtime": 1778818092.5319169,
+    "ast_hash": "a11833158331c41930ad8226ec944f85",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/chat-service/__init__.py": {
+    "mtime": 1778818114.386959,
+    "ast_hash": "30314445b2e92829808234c21773f922",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/tenant-service/__init__.py": {
+    "mtime": 1778818111.4664233,
+    "ast_hash": "b932635fa45302a58e1535196a3f7461",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/lambda_function_complete.py": {
+    "mtime": 1770629688.0,
+    "ast_hash": "55f8aeba5b8c22f73c90a64016bc9502",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/enhanced_index_handler.py": {
+    "mtime": 1769581428.0,
+    "ast_hash": "644c4fbf7e630b6741acc4bc9dfa953e",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/trigger_reindex_tenant_12.py": {
+    "mtime": 1770703840.0,
+    "ast_hash": "a89727388d91e4e8b8d6e7ac93869cc8",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/lambda_layer_checker.py": {
+    "mtime": 1770630096.0,
+    "ast_hash": "2f67984fb091bf6e74f2f12461eeeb6f",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/lambda_function_unified.py": {
+    "mtime": 1770701742.0,
+    "ast_hash": "1e3a2d840aa8527aa57d37ad6dd3bd26",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/test_automatic_indexing.py": {
+    "mtime": 1770626894.0,
+    "ast_hash": "25651b3f4dbbd823aa3ad701016c60ab",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/lambda_s3_event_handler.py": {
+    "mtime": 1770627042.0,
+    "ast_hash": "1766caa43d63c9e4fb1758a48110b603",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/reindex_tenant_12_improved.py": {
+    "mtime": 1770707754.0,
+    "ast_hash": "639e0b820cd40c60a6653b4b880e23a5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/index_handler.py": {
+    "mtime": 1770717290.0,
+    "ast_hash": "0f7f24a95ea15c5ec1b1a091897e66d2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/lambda_function_for_console.py": {
+    "mtime": 1770702802.0,
+    "ast_hash": "7a5627b78597558b2daee03f4a4e9c26",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/verify_indexing_complete.py": {
+    "mtime": 1770704234.0,
+    "ast_hash": "347151b0f058ffac5d5f59ea20491e14",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/indexing-service/reindex_tenant_on_server.py": {
+    "mtime": 1770626054.0,
+    "ast_hash": "bf61fcd065bb6169efe1c09e7042ac16",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/auth-service/__init__.py": {
+    "mtime": 1778818097.5404058,
+    "ast_hash": "fbe734130541ebe4e5ad122cee6e148c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/rag_utils.py": {
+    "mtime": 1778835878.5251734,
+    "ast_hash": "185032967fd681f23091d5b5c65666a4",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/quality_monitor.py": {
+    "mtime": 1778821878.2609942,
+    "ast_hash": "e1b0389693f73e17f8fbb4536604f4f1",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/alerting_system.py": {
+    "mtime": 1778821878.2199073,
+    "ast_hash": "842fd1ba89a961480518600ea14012b5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/advanced_aws_rag.py": {
+    "mtime": 1778821878.2166646,
+    "ast_hash": "efc7cf3c967e811fb0c047fd0b465938",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/config_models.py": {
+    "mtime": 1778821878.2280388,
+    "ast_hash": "d76f8ae722c0f5805212840ef0233a74",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/fixed_responses.json": {
+    "mtime": 1769491996.0,
+    "ast_hash": "67ebb417c6bf40799d94f6090e937a3d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/dynamic_retriever.py": {
+    "mtime": 1778821878.2398267,
+    "ast_hash": "c1f44c97a74b504d32431b7314ead5c8",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/intelligent_fallback.py": {
+    "mtime": 1778821878.2471936,
+    "ast_hash": "e081315d932c67ada6130e1187db5486",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/topic_clarification_handler.py": {
+    "mtime": 1778821878.2763374,
+    "ast_hash": "60c24842f1434aaa412173c1d525676b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/config_schemas.py": {
+    "mtime": 1778821878.2301993,
+    "ast_hash": "56de4d101d831543a5a407ddd509075b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/intelligent_query_processor.py": {
+    "mtime": 1778821878.2498167,
+    "ast_hash": "a3d3736881b715afdd53a6637d80df55",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/config_manager.py": {
+    "mtime": 1778821878.2252302,
+    "ast_hash": "95f6da6d7c5cf416a5928fb777b70180",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/context_manager.py": {
+    "mtime": 1778821878.236085,
+    "ast_hash": "99be6ea7c49c50326ef1f757892b0c87",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/__init__.py": {
+    "mtime": 1778821878.2448614,
+    "ast_hash": "36b2517be9be3cdaa52d534dea53e205",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/opensearch_vector_store.py": {
+    "mtime": 1778821878.251337,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/response_summarizer.py": {
+    "mtime": 1778821878.2686715,
+    "ast_hash": "54b8a26eb9c3a05f32d0acb7b9f19376",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/context_aware_response.py": {
+    "mtime": 1778821878.2325454,
+    "ast_hash": "6b3d6264147d7913e60290f63defd19c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/fix_index.py": {
+    "mtime": 1778821878.2424517,
+    "ast_hash": "edc0b1ffc7f53110d6a9c7317815ff1c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/performance_tracker.py": {
+    "mtime": 1778821878.2544081,
+    "ast_hash": "898caaa40c9a1afec651b91ab49c013d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/adaptive_chunker.py": {
+    "mtime": 1778821878.2101252,
+    "ast_hash": "c2fa1ed1be70a7b323f02fd4a105d61a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/adaptive_complexity.py": {
+    "mtime": 1778821878.2141113,
+    "ast_hash": "7b843a3d27ee1210dd3c2661d4a44bf9",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/chat_data_utils.py": {
+    "mtime": 1778821878.222836,
+    "ast_hash": "b477ffdd19318d51ff2938fdca06ab88",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/quality_integration.py": {
+    "mtime": 1778821878.257437,
+    "ast_hash": "f6495976871b557eefb9e2b4ee032aef",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/rag_engine/semantic_search.py": {
+    "mtime": 1778821878.272431,
+    "ast_hash": "d2663fd2f2c6fc77387c3c91a8bcc324",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/services/user-service/__init__.py": {
+    "mtime": 1778818101.2605405,
+    "ast_hash": "e61c77ec3bba47b09db70b6173a9938b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.claude/settings.local.json": {
+    "mtime": 1778836529.8086672,
+    "ast_hash": "a925aabca9d9b427b007f907d245fd32",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/database/crud.py": {
+    "mtime": 1751880176.0,
+    "ast_hash": "5a78d2ac362c21d107c2a6dda320e255",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/database/schemas.py": {
+    "mtime": 1778827933.9858487,
+    "ast_hash": "d3b09bf3f4678d8a625a4ffa26c5f3d5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/database/database.py": {
+    "mtime": 1778835765.4030035,
+    "ast_hash": "aed50ff062918f2b401e146478c15657",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/database/models.py": {
+    "mtime": 1778820762.140448,
+    "ast_hash": "59de497a2b0ea5fc87ea130122087a2c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/check_sqs_status.py": {
+    "mtime": 1770699534.0,
+    "ast_hash": "0f3174fabeebed51e7a6d775abba2ea1",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/fetch_lambda_logs.py": {
+    "mtime": 1770705054.0,
+    "ast_hash": "c0d04cac1f411f66d63526d2e4ff00d2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/system_health_check.py": {
+    "mtime": 1770292310.0,
+    "ast_hash": "5d69885f249da530659160b916b4ede4",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/finalize_production_system.py": {
+    "mtime": 1770291952.0,
+    "ast_hash": "3b500cd37f8521650f5e6816d992339d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/check_recent_logs.py": {
+    "mtime": 1770706918.0,
+    "ast_hash": "95ff3c8e34d484eff7a9e0fcbb5b0433",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/send_test_sqs_message.py": {
+    "mtime": 1770699670.0,
+    "ast_hash": "b3ed79e3e3ea4529beb9c7d3d913dc04",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/prepare_repo_for_push.py": {
+    "mtime": 1770292584.0,
+    "ast_hash": "191b4d5cbcbb4950ceae3f9e5534a3c3",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/prepare_production_repo.py": {
+    "mtime": 1770292760.0,
+    "ast_hash": "7cf359184071fac0849d1b12741bb493",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/check_all_tenants.py": {
+    "mtime": 1770704300.0,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/diagnose_and_fix.py": {
+    "mtime": 1770804582.0,
+    "ast_hash": "7f12ef5c4d4f473628207e5f8c43de7c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/diagnose_tenant_11_retrieval.py": {
+    "mtime": 1770700214.0,
+    "ast_hash": "6908a9d89d3e10947b50ce33b96cc45b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/demo_advanced_features.py": {
+    "mtime": 1769687546.0,
+    "ast_hash": "21874600c1ae061789c13dfafa75e39b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/diagnose_retrieval_issue.py": {
+    "mtime": 1770712614.0,
+    "ast_hash": "a452a76f587a298c4175db8f483e7c72",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/diagnose_and_fix_server.py": {
+    "mtime": 1770709124.0,
+    "ast_hash": "033bcb6e85a6e6b05977b628414d0c30",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/quick_diagnosis.py": {
+    "mtime": 1770703980.0,
+    "ast_hash": "1999f09449ce03d3a55ae087941efab1",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/check_sqs_queue.py": {
+    "mtime": 1770704394.0,
+    "ast_hash": "4ce9f70722baa6d26bd28809a1a5672a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/debug_server_deployment.py": {
+    "mtime": 1770626030.0,
+    "ast_hash": "9fbfffdde1f5845545ea61587d0b8bdf",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/get_tenant_12_logs.py": {
+    "mtime": 1770705368.0,
+    "ast_hash": "231407520875f495fe687bc5e964b69a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/common/utils/debug_tenant_comparison.py": {
+    "mtime": 1770629428.0,
+    "ast_hash": "38369b33585fb219d1d4b814f4c4aad8",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/config.json": {
+    "mtime": 1778840844.5527675,
+    "ast_hash": "22b24c6853c005be71de473547132cf2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/fix_tenant_11.sh": {
+    "mtime": 1770629450.0,
+    "ast_hash": "79ef42bc40579cd537f067beb7d36868",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/deploy_automatic_indexing.sh": {
+    "mtime": 1770626866.0,
+    "ast_hash": "c7f9230fae9c38ac8cc2f4c42a69b8be",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/fix_server_retrieval.sh": {
+    "mtime": 1770712630.0,
+    "ast_hash": "37a3525f0e220e7a9a193078b996b7c0",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/create_lambda_layer.sh": {
+    "mtime": 1770632062.0,
+    "ast_hash": "efcd7120d8f93f5acf395732e6382a8a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/deploy_lambda_fix.py": {
+    "mtime": 1770703116.0,
+    "ast_hash": "4040cde9efa3b5d579c058a7cf13b07c",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/check_lambda_layers.sh": {
+    "mtime": 1770630128.0,
+    "ast_hash": "dac8498c2b3a293bcfc76f516e891b22",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/deploy_lambda_complete.sh": {
+    "mtime": 1770629716.0,
+    "ast_hash": "7fa792c914508804dbfdb367330432ad",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/test_lambda_tenant_11.sh": {
+    "mtime": 1770699018.0,
+    "ast_hash": "88e4adf2f055436e8f4425c490ccdc3d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/quick_fix_server.sh": {
+    "mtime": 1770626112.0,
+    "ast_hash": "7bb40fcf0ca115cbfa226de11741356b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/fix_and_test_tenant_12.sh": {
+    "mtime": 1770702942.0,
+    "ast_hash": "dcfc7b6ee6409fb693052eeaea4827d5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/deploy_fixed_lambda.py": {
+    "mtime": 1770706284.0,
+    "ast_hash": "075ed4bf57de2e554b9b27acb4898b86",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/infrastructure/deployment/deploy_retrieval_fix.py": {
+    "mtime": 1770712712.0,
+    "ast_hash": "73e56b79dbadadceb5e8b39c9e74c37b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/main.py": {
+    "mtime": 1778819321.9784927,
+    "ast_hash": "0345d492f3deb2309f659bfb174882ab",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/uploads/conversation_history/1/api_anonymous.json": {
+    "mtime": 1778839742.5027323,
+    "ast_hash": "3ea7f64137be11403fa0af64a81a5b14",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/uploads/conversation_history/2/api_anonymous.json": {
+    "mtime": 1778830709.6278903,
+    "ast_hash": "9301f48ce669da8e2f5c3ff7cca8d6f2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_direct_s3_vectors.py": {
+    "mtime": 1770702906.0,
+    "ast_hash": "a99d49d9eaad408af4da6f7e6d1fad58",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_metadata_fix.py": {
+    "mtime": 1770702856.0,
+    "ast_hash": "dbec30ce022501c3382ba4b56d69031b",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_retrieval_on_server.py": {
+    "mtime": 1770709356.0,
+    "ast_hash": "0e5a589f40666d0560ff577bc528df33",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_lambda_tenant_11.py": {
+    "mtime": 1770700350.0,
+    "ast_hash": "371594688dbd3439db7a3e03444367c3",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_actual_query.py": {
+    "mtime": 1770706990.0,
+    "ast_hash": "130e026d6a266b3349bca74a62fc3a0d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/tests/test_api_retrieval.py": {
+    "mtime": 1770704096.0,
+    "ast_hash": "111033b4b88544b1bb520b0d9f95ef8d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/venv311/bin/Activate.ps1": {
+    "mtime": 1778821652.90357,
+    "ast_hash": "ffb074b8336789578f50a6c1a1632342",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/venv311/bin/jp.py": {
+    "mtime": 1778821734.675004,
+    "ast_hash": "934d8a64edb88b636d61223d26f92d16",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/venv311/include/site/python3.11/greenlet/greenlet.h": {
+    "mtime": 1778821734.925175,
+    "ast_hash": "6c9c3b83ecae50dcd2ea5ce90fb157cb",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/Rag365implementationplan .md": {
+    "mtime": 1778748613.0008087,
+    "ast_hash": "d7e6e55f4b4fdfa5f7cfecc2ab7e2ccb",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/docker-compose.yml": {
+    "mtime": 1765975744.0,
+    "ast_hash": "f8447b95fa2db0b447330d8b53fc85ea",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/README.md": {
+    "mtime": 1765777804.0,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/clear-auth.html": {
+    "mtime": 1769515750.0,
+    "ast_hash": "5a403bff40ba171aa5a088f598a84960",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/ROADMAP.md": {
+    "mtime": 1778751031.704043,
+    "ast_hash": "72436a1cf35338d9fd5de18330086188",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/PROJECT.md": {
+    "mtime": 1778750415.5449495,
+    "ast_hash": "2618f88056d1e9ecad955f3a628fb899",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/STATE.md": {
+    "mtime": 1778750448.3408926,
+    "ast_hash": "9fb6201cb6205b3fed2988726d912a77",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/REQUIREMENTS.md": {
+    "mtime": 1778750427.681998,
+    "ast_hash": "e0e2eb6d188a432634b3b928d872e5e5",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/ARCHITECTURE.md": {
+    "mtime": 1778750314.2069335,
+    "ast_hash": "1a4120fea1e90000f818e197de8b5ef1",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/FEATURES.md": {
+    "mtime": 1778750292.119865,
+    "ast_hash": "6ce5fbcd2975fdd172ebe0bec9d41a09",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/PITFALLS.md": {
+    "mtime": 1778750330.2479544,
+    "ast_hash": "cd581a64b64faa456c6232fb95543bc3",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/SUMMARY.md": {
+    "mtime": 1778750350.7215683,
+    "ast_hash": "7992db6a577332378582e3ff1607644d",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/STACK.md": {
+    "mtime": 1778750275.614998,
+    "ast_hash": "ab7c3daaa185fd65fa9e7b07421e2cf2",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/research/BUSINESS_POSITIONING.md": {
+    "mtime": 1778749933.3765752,
+    "ast_hash": "6dcc4a429f2a41b12eb1cada976e4b82",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/ARCHITECTURE.md": {
+    "mtime": 1778749105.876235,
+    "ast_hash": "f25c956c7885b472fa218249ae441756",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/STRUCTURE.md": {
+    "mtime": 1778749130.8835173,
+    "ast_hash": "8a89139431ce80edd2c7914499433049",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/STACK.md": {
+    "mtime": 1778748914.0410697,
+    "ast_hash": "73ef688ca7730a8f5d3adc5cfda1b838",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/TESTING.md": {
+    "mtime": 1778749183.6071124,
+    "ast_hash": "21d2e05b6ba76930ce0e8da78033bfda",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/CONVENTIONS.md": {
+    "mtime": 1778749162.7288766,
+    "ast_hash": "9e942252620c3227a28e6585f9a9d1d6",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/INTEGRATIONS.md": {
+    "mtime": 1778748934.5733016,
+    "ast_hash": "9b1c36bbcb935ec3e56a41ec91a1fa1a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/.planning/codebase/CONCERNS.md": {
+    "mtime": 1778749402.1095786,
+    "ast_hash": "ed6f4b036159743d5c8fa43bb4ce142a",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/docker-compose.yml": {
+    "mtime": 1778818069.2254558,
+    "ast_hash": "7b6441fd0e3ae13da420b7d75d69cd82",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/backend/requirements.txt": {
+    "mtime": 1778820711.097206,
+    "ast_hash": "14fdc60a75e540c69a429fb17ce85c63",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/vercel.svg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/next.svg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/globe.svg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/rag24.png": {
+    "mtime": 1770619498.0,
+    "ast_hash": "b5fe4f8f62f3a62af85f891aff8b09a1",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/rag-admin-hero.jpg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "540f5a438360460ae92aae3ea4bf7bc0",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/window.svg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/file.svg": {
+    "mtime": 1765778496.0,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": ""
+  },
+  "/home/dst-27/dotstark/RAG365/frontend/rag-admin-frontend/public/rag24_White.png": {
+    "mtime": 1770622860.0,
+    "ast_hash": "1b47c3377080bec888d776847a9f5930",
+    "semantic_hash": ""
+  }
+}

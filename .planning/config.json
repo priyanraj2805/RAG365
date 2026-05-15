@@ -1,0 +1,25 @@
+{
+  "workflow": {
+    "mode": "interactive",
+    "requireApprovals": true
+  },
+  "intel": {
+    "enabled": true
+  },
+  "project": {
+    "track": "enterprise-microservices-transformation",
+    "migrationStrategy": "strangler-fig",
+    "primaryStack": {
+      "backend": "fastapi-python",
+      "frontend": "nextjs",
+      "cloud": "aws"
+    }
+  },
+  "quality": {
+    "requireContractChecksBeforeCutover": true,
+    "requireObservabilityBeforeCutover": true
+  },
+  "graphify": {
+    "enabled": true
+  }
+}

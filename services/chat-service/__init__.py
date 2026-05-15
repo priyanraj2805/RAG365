@@ -1,0 +1,1 @@
+# Chat Service - Chat and RAG query handling
