@@ -56,10 +56,27 @@ RAG365 is an enterprise-grade Retrieval-Augmented Generation (RAG) platform desi
    cd backend
    ```
 2. Create and activate a virtual environment:
+
+   **Linux/macOS:**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Linux/macOS
+   source venv/bin/activate
    ```
+
+   **Windows (PowerShell):**
+   ```powershell
+   python -m venv venv
+   .\venv\Scripts\Activate.ps1
+   ```
+
+   **Windows (CMD):**
+   ```cmd
+   python -m venv venv
+   venv\Scripts\activate.bat
+   ```
+
+   > **Note (Windows):** If PowerShell blocks the activation script, run this once:
+   > `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
